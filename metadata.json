@@ -1,0 +1,6 @@
+{
+  "name": "PollPulse",
+  "description": "Real-time voting and interactive polling platform with dynamic forms, live analytics, and instant vote tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
